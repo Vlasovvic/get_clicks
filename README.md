@@ -12,7 +12,7 @@ pip install -r ./requirements.txt
 ```bash
 python main.py -urls [url or bitlink]
 ```
-####Опции:
+#### Опции:
 --url --- ссылки на веб-страницы
 ### Цель проекта
 Проект написан в образовательных целях на онлайн-курсе для веб-разработчиков https://dvmn.org/ .
